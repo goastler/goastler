@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![goastler's GitHub stats](https://github-readme-stats.vercel.app/api?username=goastler&show=reviews,prs_merged&show_icons=true&hide_title=true&rank_icon=percentile&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![anuraghazra's GitHub stats](https://github-readme-stats.vercel.app/api?username=goastler&show=reviews,prs_merged&show_icons=true&hide_title=true&rank_icon=percentile&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goastler&layout=compact)
 
 <!--
 **goastler/goastler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
