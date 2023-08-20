@@ -2,7 +2,7 @@
 
 [![anuraghazra's GitHub stats](https://github-readme-stats.vercel.app/api?username=goastler&show=reviews,prs_merged&show_icons=true&hide_title=true&rank_icon=percentile&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goastler&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goastler&layout=compact) -->
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=goastler&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
