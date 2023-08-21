@@ -29,7 +29,7 @@
 - :calendar: What's next?
     - :sunny: solar mining rig
     - :four_leaf_clover: double the chia mining rig storage to 200TB
-    -  genetic algorithm research
+    - :monocle_face: genetic algorithm research
 
 - 📫 How to reach me:
     - [linkedin](https://www.linkedin.com/in/goastler/)
