@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Hello! I'm George. I code />
+    <img alt="Hello! I'm George. I code and I can't stop" />
 </p>
 
 <br/>
@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on ...
     - :soccer: an automated and free-to-use football data collection website + API
     - :crystal_ball: a machine learning based AI and advisor for playing [fantasy football](https://fantasy.premierleague.com/entry/7511/event/1)
-    - :bulb: creating my own blog site via github pages (then dump all my vast notes on there :smiling_imp:)
+    - :bulb: creating my own blog site via github pages (then dump all of my vast notes on there :smiling_imp:)
 
 - 🌱 I’m currently learning ...
     - :fire: rust (melts my CPU but it's got fast execution!)
