@@ -1,10 +1,6 @@
-<p align="center">
-    <h1>Hello! I'm George. I code and I can't stop</h1>
-</p>
+# `Hello! I'm George. I code and I can't stop`
 
-<br/>
-
-** Bio **
+### Bio
 
 - :briefcase: Software Engineer at [Prosopo](https://prosopo.io)
 
@@ -14,7 +10,7 @@
 
 - :muscle: Huge fan of blockchain and decentralisation
 
-** What am I up to? **
+### What am I up to? ##
 
 - 🔭 I’m currently working on ...
     - :soccer: an automated and free-to-use football data collection website + API
@@ -33,6 +29,8 @@
 
 - 📫 How to reach me:
     - [linkedin](https://www.linkedin.com/in/goastler/)
+
+### Stats
 
 [![anuraghazra's GitHub stats](https://github-readme-stats.vercel.app/api?username=goastler&show=reviews,prs_merged&show_icons=true&hide_title=true&rank_icon=percentile&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
