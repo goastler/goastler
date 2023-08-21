@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Hello! I'm George. I code and I can't stop" />
+    Hello! I'm George. I code and I can't stop
 </p>
 
 <br/>
