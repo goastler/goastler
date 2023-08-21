@@ -1,22 +1,41 @@
-### Hi there 👋
+<p align="center">
+    <img alt="Hello! I'm George. I code />
+</p>
+
+<br/>
+
+** Bio **
+
+- :briefcase: Software Engineer at [Prosopo](https://prosopo.io)
+
+- :heart: I love writing elegant code to solve tricky problems
+
+- :nerd_face: Geek at heart, no rest for the curious
+
+- :muscle: Huge fan of blockchain and decentralisation
+
+** What am I up to? **
+
+- 🔭 I’m currently working on ...
+    - :soccer: an automated and free-to-use football data collection website + API
+    - :crystal_ball: a machine learning based AI and advisor for playing [fantasy football](https://fantasy.premierleague.com/entry/7511/event/1)
+    - :bulb: creating my own blog site via github pages (then dump all my vast notes on there :smiling_imp:)
+
+- 🌱 I’m currently learning ...
+    - :fire: rust (melts my CPU but it's got fast execution!)
+    - :ledger: substrate
+    - :black_nib: ink smart contracts
+
+- :calendar: What's next?
+    - :sunny: solar mining rig
+    - :four_leaf_clover: double the chia mining rig storage to 200TB
+    -  genetic algorithm research
+
+- 📫 How to reach me:
+    - [linkedin](https://www.linkedin.com/in/goastler/)
 
 [![anuraghazra's GitHub stats](https://github-readme-stats.vercel.app/api?username=goastler&show=reviews,prs_merged&show_icons=true&hide_title=true&rank_icon=percentile&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goastler&layout=compact) -->
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=goastler&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**goastler/goastler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
