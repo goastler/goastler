@@ -1,5 +1,5 @@
 <p align="center">
-    #Hello! I'm George. I code and I can't stop
+    <h1>Hello! I'm George. I code and I can't stop</h1>
 </p>
 
 <br/>
