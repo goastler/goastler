@@ -1,4 +1,4 @@
-# `Hello! I'm George. I code and I can't stop`
+# Hey there, I'm George 😎
 
 ### Bio
 
@@ -9,23 +9,6 @@
 - :nerd_face: Geek at heart, no rest for the curious
 
 - :muscle: Huge fan of blockchain and decentralisation
-
-### What am I up to? ##
-
-- 🔭 I’m currently working on ...
-    - :soccer: an automated and free-to-use football data collection website + API
-    - :crystal_ball: a machine learning based AI and advisor for playing [fantasy football](https://fantasy.premierleague.com/entry/7511/event/1)
-    - :bulb: creating my own blog site via github pages (then dump all of my vast notes on there :smiling_imp:)
-
-- 🌱 I’m currently learning ...
-    - :fire: rust (melts my CPU but it's got fast execution!)
-    - :ledger: substrate
-    - :black_nib: ink smart contracts
-
-- :calendar: What's next?
-    - :sunny: solar mining rig
-    - :four_leaf_clover: double my chia mining rig storage to 200TB
-    - :monocle_face: genetic algorithm research
 
 - 📫 How to reach me:
     - [linkedin](https://www.linkedin.com/in/goastler/)
